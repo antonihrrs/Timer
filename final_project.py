@@ -10,9 +10,7 @@ def countdown(t):
         window.update()
         time.sleep(1)
         t -= 1
-    
     timer_label.config(text="Time is up :)")
-
 
 def get_time(user_input):
     while True:
