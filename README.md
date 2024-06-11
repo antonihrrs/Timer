@@ -1,9 +1,5 @@
 This is my final project to finish up the Python course "The Legend Of Python" that Codedex.io offers.
 
-This is april 8th 2024
-
-NB : I made this timer a little bit over a month ago (around march 3rd)
-
 This was my first time make a Graphic User Interface
 In terms of quantity of new elements intertwined with one another added up with using a library (tkinker) I had never used before.
 
