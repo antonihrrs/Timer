@@ -1,4 +1,4 @@
-Final project for the Codédex's "The Legend Of Python" course.
+Final project for the Codédex's "The Legend Of Python" (beginner) course.
 
 It's use is pretty self-explanatory :
 The user enters how many seconds they want a countdown from, press the start button and here it goes.
